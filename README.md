@@ -1,6 +1,6 @@
 # Audiobook Scraper
 
-A script to scrape audiobook data and download audiobooks from a Kubus Storytell website.
+A script to scrape audiobook data and download audiobooks from the Kubus Storytell website.
 
 ## Features
 
